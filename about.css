@@ -1,0 +1,39 @@
+.white{
+  color: white;
+}
+
+.subtitle_copy{
+  max-width: 47%;
+  padding-top: 20px;
+  
+  font-weight: 500;
+  font-size: 18px;
+  
+  
+  border-top: 2px solid #111111;
+}
+
+.subtitle_copy_white{
+  border-top: 2px solid #ffffff;
+  color: #fff;
+}
+
+.about_copy{
+  line-height: 1.8;
+}
+
+.bg_black{
+  background-color: black;
+}
+
+.section_team{
+  padding-top:6rem ;
+  padding-bottom: 6rem;
+}
+
+.team_member{
+  font-size: 18px;
+  color: #fff;
+  font-weight: 500;
+}
+

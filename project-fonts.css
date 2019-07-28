@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,500i&display=swap');
+
+
+
+h1{
+  font-size: 14px;
+  font-weight: 500;
+}
+
+h2{
+  font-size: 24px;
+  font-weight: 500;
+}
+
+h3.f4-ns{
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.bold_title{
+  font-weight: 500;
+}
